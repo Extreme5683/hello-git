@@ -1,1 +1,1 @@
-Another line from main.
+Another line from conflict branch.
